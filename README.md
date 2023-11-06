@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Brandon Valentine, but most folks in tech just call me @bval. I have a giant beard, and am easily recognized by it.
+I'm called Brandon Valentine, but most folks in tech just call me bval. I have a giant beard, and am easily recognized by it.
 
 I work hard to bring warmth, humor, and openness to everything I do and I seek those qualities in others.
 
